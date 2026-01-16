@@ -1,6 +1,9 @@
 # readme-starter
 卒業制作 Web アプリの README とプロジェクト概要を設計するための準備リポジトリ
 
+### ER図
+https://app.diagrams.net/#G1MnO_06RBar9AaMCKoEBtnOT2LCNuKOfl#%7B%22pageId%22%3A%22_PT7T-UX5P07v_iuA0RX%22%7D
+
 ## サービス概要
 地域の人が“地元の良い散歩コース”を共有・発見できる Web アプリです。
 目的や気分に合わせておすすめルートを探せます。
